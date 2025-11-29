@@ -1,0 +1,10 @@
+Programming goals:
+
+reject facebook offer
+reject amazon offer
+reject apple offer
+reject netflix offer
+reject google offer
+complete half of the leetcode problems
+create a C malware
+create a Python malware

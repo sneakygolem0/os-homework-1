@@ -1,0 +1,9 @@
+I learnt git and github for my future career.
+Here are some essential commands:
+
+git push origin main
+git pull origin main
+git branch new-branch
+git checkup new-branch
+git add new-file
+git commit -m 'changes'
